@@ -12,3 +12,11 @@ git checkout -b <mybranch>  		--create and switch to new branch
 git branch					-- getting all branch names
 
 git checkout master 			-- switch to another branch
+
+git show-ref				--show available local repositories 
+
+git remote add origin https://github.com/LuoDaJiang/Projects.git  -- set github location
+
+git push origin workitems		--push a branch
+
+git push https://github.com/LuoDaJiang/Projects workitems	-push a branch, too
