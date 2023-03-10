@@ -1,3 +1,5 @@
+FROM https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
 cd file path
 git init					-- setup git path
 
