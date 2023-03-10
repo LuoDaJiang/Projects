@@ -3,7 +3,9 @@ git init					-- setup git path
 
 git status					-- show pending items
 
-git add c:\Projects\Test.txt
+git add .					-- add changes
+
+git add c:\Projects\Test.txt		-- add changes,too
 
 git commit -m"test commit #1"		-- commit pending changes
 
