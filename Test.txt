@@ -1,0 +1,4 @@
+cd file path
+git init
+
+git status
