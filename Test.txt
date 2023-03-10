@@ -1,4 +1,14 @@
 cd file path
-git init
+git init					-- setup git path
 
-git status
+git status					-- show pending items
+
+git add c:\Projects\Test.txt
+
+git commit -m"test commit #1"		-- commit pending changes
+
+git checkout -b <mybranch>  		--create and switch to new branch
+
+git branch					-- getting all branch names
+
+git checkout master 			-- switch to another branch
