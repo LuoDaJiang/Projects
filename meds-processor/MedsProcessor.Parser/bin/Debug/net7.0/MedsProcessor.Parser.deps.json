@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MedsProcessor.Parser/1.0.0": {
+        "dependencies": {
+          "MedsProcessor.Common": "1.0.0"
+        },
+        "runtime": {
+          "MedsProcessor.Parser.dll": {}
+        }
+      },
+      "MedsProcessor.Common/1.0.0": {
+        "runtime": {
+          "MedsProcessor.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MedsProcessor.Parser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MedsProcessor.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

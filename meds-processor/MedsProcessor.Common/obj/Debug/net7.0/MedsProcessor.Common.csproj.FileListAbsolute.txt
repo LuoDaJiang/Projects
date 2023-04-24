@@ -1,0 +1,12 @@
+C:\Projects\meds-processor\MedsProcessor.Common\bin\Debug\net7.0\MedsProcessor.Common.deps.json
+C:\Projects\meds-processor\MedsProcessor.Common\bin\Debug\net7.0\MedsProcessor.Common.dll
+C:\Projects\meds-processor\MedsProcessor.Common\bin\Debug\net7.0\MedsProcessor.Common.pdb
+C:\Projects\meds-processor\MedsProcessor.Common\obj\Debug\net7.0\MedsProcessor.Common.csproj.AssemblyReference.cache
+C:\Projects\meds-processor\MedsProcessor.Common\obj\Debug\net7.0\MedsProcessor.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\meds-processor\MedsProcessor.Common\obj\Debug\net7.0\MedsProcessor.Common.AssemblyInfoInputs.cache
+C:\Projects\meds-processor\MedsProcessor.Common\obj\Debug\net7.0\MedsProcessor.Common.AssemblyInfo.cs
+C:\Projects\meds-processor\MedsProcessor.Common\obj\Debug\net7.0\MedsProcessor.Common.csproj.CoreCompileInputs.cache
+C:\Projects\meds-processor\MedsProcessor.Common\obj\Debug\net7.0\MedsProcessor.Common.dll
+C:\Projects\meds-processor\MedsProcessor.Common\obj\Debug\net7.0\refint\MedsProcessor.Common.dll
+C:\Projects\meds-processor\MedsProcessor.Common\obj\Debug\net7.0\MedsProcessor.Common.pdb
+C:\Projects\meds-processor\MedsProcessor.Common\obj\Debug\net7.0\ref\MedsProcessor.Common.dll

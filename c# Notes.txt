@@ -1,0 +1,10 @@
+.Net Framework 可用于 C#, C++, Visual Basic, JScript
+.dll： 编译文件，储存CIL代码
+GAC：Global Assembly Cache
+
+Windows Application
+Web Application
+Web Service
+
+namespace --> class --> Method
+Attributes：Metadata

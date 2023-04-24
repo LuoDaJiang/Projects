@@ -1,0 +1,30 @@
+FROM https://medium.com/@vekzdran/practical-net-core-write-a-web-scraper-downloader-excel-parser-part-1-4-ece43e0af898
+
+cd file path 
+mkdir meds-processor			-- make new directory "meds-processor"
+cd meds-processor				-- go to the new directory
+dotnet new sln -n MedsProcessor	-- create new solution "MedsProcessor"
+
+
+dotnet new webapi -n MedsProcessor.WebAPI		-- create WebAPI and three classes:scraper-downloader-parser
+dotnet new classlib -n MedsProcessor.Scraper
+dotnet new classlib -n MedsProcessor.Parser
+dotnet new classlib -n MedsProcessor.Common
+
+dotnet sln add MedsProcessor.Scraper/MedsProcessor.Scraper.csproj -- add csproj file for each class
+dotnet sln add MedsProcessor.Parser/MedsProcessor.Parser.csproj 
+dotnet sln add MedsProcessor.Common/MedsProcessor.Common.csproj
+
+--Add multiple project references to the project in the current directory:(Link the files to each other)
+dotnet add MedsProcessor.WebAPI/MedsProcessor.WebAPI.csproj reference MedsProcessor.Scraper/MedsProcessor.Scraper.csproj MedsProcessor.Parser/MedsProcessor.Parser.csproj MedsProcessor.Common/MedsProcessor.Common.csproj
+dotnet add MedsProcessor.Scraper/MedsProcessor.Scraper.csproj reference MedsProcessor.Common/MedsProcessor.Common.csproj
+dotnet add MedsProcessor.Parser/MedsProcessor.Parser.csproj reference MedsProcessor.Common/MedsProcessor.Common.csproj
+
+dotnet build --- finally build!
+
+code . 	 --- quiclyk and easily open the solution in VS Code
+
+dotnet dev-certs https -t -- set up https
+
+cd MedsProcessor path
+dotnet run -p MedsProcessor.WebAPI.csproj -- click on the link will show web page

@@ -1,0 +1,15 @@
+C:\Projects\meds-processor\MedsProcessor.Scraper\bin\Debug\net7.0\MedsProcessor.Scraper.deps.json
+C:\Projects\meds-processor\MedsProcessor.Scraper\bin\Debug\net7.0\MedsProcessor.Scraper.dll
+C:\Projects\meds-processor\MedsProcessor.Scraper\bin\Debug\net7.0\MedsProcessor.Scraper.pdb
+C:\Projects\meds-processor\MedsProcessor.Scraper\bin\Debug\net7.0\MedsProcessor.Common.dll
+C:\Projects\meds-processor\MedsProcessor.Scraper\bin\Debug\net7.0\MedsProcessor.Common.pdb
+C:\Projects\meds-processor\MedsProcessor.Scraper\obj\Debug\net7.0\MedsProcessor.Scraper.csproj.AssemblyReference.cache
+C:\Projects\meds-processor\MedsProcessor.Scraper\obj\Debug\net7.0\MedsProcessor.Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\meds-processor\MedsProcessor.Scraper\obj\Debug\net7.0\MedsProcessor.Scraper.AssemblyInfoInputs.cache
+C:\Projects\meds-processor\MedsProcessor.Scraper\obj\Debug\net7.0\MedsProcessor.Scraper.AssemblyInfo.cs
+C:\Projects\meds-processor\MedsProcessor.Scraper\obj\Debug\net7.0\MedsProcessor.Scraper.csproj.CoreCompileInputs.cache
+C:\Projects\meds-processor\MedsProcessor.Scraper\obj\Debug\net7.0\MedsProcessor.Scraper.csproj.CopyComplete
+C:\Projects\meds-processor\MedsProcessor.Scraper\obj\Debug\net7.0\MedsProcessor.Scraper.dll
+C:\Projects\meds-processor\MedsProcessor.Scraper\obj\Debug\net7.0\refint\MedsProcessor.Scraper.dll
+C:\Projects\meds-processor\MedsProcessor.Scraper\obj\Debug\net7.0\MedsProcessor.Scraper.pdb
+C:\Projects\meds-processor\MedsProcessor.Scraper\obj\Debug\net7.0\ref\MedsProcessor.Scraper.dll

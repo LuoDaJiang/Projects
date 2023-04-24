@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MedsProcessor.WebAPI.props" />
+</Project>

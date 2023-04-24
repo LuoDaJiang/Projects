@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R/2KWihrgyHZNkz3JypiU2TbTvhNH0Gl8y1M6eOHPIs=",
+  "Source": "MedsProcessor.WebAPI",
+  "BasePath": "_content/MedsProcessor.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

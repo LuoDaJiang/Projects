@@ -1,0 +1,15 @@
+C:\Projects\meds-processor\MedsProcessor.Parser\bin\Debug\net7.0\MedsProcessor.Parser.deps.json
+C:\Projects\meds-processor\MedsProcessor.Parser\bin\Debug\net7.0\MedsProcessor.Parser.dll
+C:\Projects\meds-processor\MedsProcessor.Parser\bin\Debug\net7.0\MedsProcessor.Parser.pdb
+C:\Projects\meds-processor\MedsProcessor.Parser\bin\Debug\net7.0\MedsProcessor.Common.dll
+C:\Projects\meds-processor\MedsProcessor.Parser\bin\Debug\net7.0\MedsProcessor.Common.pdb
+C:\Projects\meds-processor\MedsProcessor.Parser\obj\Debug\net7.0\MedsProcessor.Parser.csproj.AssemblyReference.cache
+C:\Projects\meds-processor\MedsProcessor.Parser\obj\Debug\net7.0\MedsProcessor.Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\meds-processor\MedsProcessor.Parser\obj\Debug\net7.0\MedsProcessor.Parser.AssemblyInfoInputs.cache
+C:\Projects\meds-processor\MedsProcessor.Parser\obj\Debug\net7.0\MedsProcessor.Parser.AssemblyInfo.cs
+C:\Projects\meds-processor\MedsProcessor.Parser\obj\Debug\net7.0\MedsProcessor.Parser.csproj.CoreCompileInputs.cache
+C:\Projects\meds-processor\MedsProcessor.Parser\obj\Debug\net7.0\MedsProcessor.Parser.csproj.CopyComplete
+C:\Projects\meds-processor\MedsProcessor.Parser\obj\Debug\net7.0\MedsProcessor.Parser.dll
+C:\Projects\meds-processor\MedsProcessor.Parser\obj\Debug\net7.0\refint\MedsProcessor.Parser.dll
+C:\Projects\meds-processor\MedsProcessor.Parser\obj\Debug\net7.0\MedsProcessor.Parser.pdb
+C:\Projects\meds-processor\MedsProcessor.Parser\obj\Debug\net7.0\ref\MedsProcessor.Parser.dll
